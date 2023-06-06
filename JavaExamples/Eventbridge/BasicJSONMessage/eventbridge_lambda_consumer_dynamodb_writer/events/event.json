@@ -1,0 +1,27 @@
+{
+    "account": "664251831272",
+    "region": "us-west-2",
+    "detail": {
+        "person": {
+            "firstname": "Carma",
+            "lastname": "Vanheusen",
+            "company": "Springfield Div Oh Edison Co",
+            "street": "68556 Central Hwy",
+            "city": "San Leandro",
+            "county": "Alameda",
+            "state": "CA",
+            "zip": "94577",
+            "homePhone": "510-503-7169",
+            "cellPhone": "510-452-4835",
+            "email": "carma@cox.net",
+            "website": "http://www.springfielddivohedisonco.com"
+        },
+        "messageKey": "TestKey06-06-01-2023-07-06-60",
+        "messageNumber": 95
+    },
+    "detailType": "eventbridge.producer.PersonWithKeyAndNumber",
+    "source": "eventbridge.producer.JsonEventbridgeProducer",
+    "id": "6df79d5f-e740-b135-1088-d3a1f948eda3",
+    "time": 1685604509000,
+    "resources": []
+}
